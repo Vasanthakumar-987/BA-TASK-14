@@ -2,7 +2,6 @@
 
 ## Week 14 – Data Analytics Assignment
 
-**Tool:** Tableau Public  
 **Dataset:** Global Superstore Dataset  
 **Project Type:** Geographical Data Visualization and Analysis
 
