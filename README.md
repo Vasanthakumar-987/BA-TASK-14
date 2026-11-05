@@ -1,4 +1,4 @@
-# Geographical Analysis Using Tableau
+# Geographical Analysis 
 
 ## Week 14 – Data Analytics Assignment
 
